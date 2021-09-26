@@ -18,6 +18,8 @@ namespace ConsoleApplication1
             Console.WriteLine("Abc");
 
             Console.WriteLine("Hom nay ngay 26/9/2021");
+
+            Console.WriteLine("Them tu sprint 1 .Hom nay ngay 26/9/2021");
         }
     }
 }
