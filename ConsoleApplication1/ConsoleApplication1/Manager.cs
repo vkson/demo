@@ -9,5 +9,6 @@ namespace ConsoleApplication1
     public class Manager: Employee
     {
         public string Title { get; set; }
+        public string position { get; set; }
     }
 }
