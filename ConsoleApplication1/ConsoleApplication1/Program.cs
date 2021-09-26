@@ -16,6 +16,8 @@ namespace ConsoleApplication1
             Console.WriteLine("This is demo");
 
             Console.WriteLine("Abc");
+
+            Console.WriteLine("Hom nay ngay 26/9/2021");
         }
     }
 }
